@@ -2,6 +2,7 @@ name = "e5renew"
 main = "src/index.js"
 compatibility_date = "2022-07-23"
 
+
 [triggers]
 crons = ["*/30 * * * *"]
 
